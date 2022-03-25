@@ -12,7 +12,7 @@
 	<h1>IT-support</h1>
 </header>
  
-<p>Har du frågor om din platta? Kontakta Rasmus Pettersson Vik.</p>
+<p>Har du frågor om din enhet? Kontakta Rasmus Pettersson Vik.</p>
 
 <p>Skriv på Teams eller skicka ett mejl. Om det är akut går det bra att ringa. Ta gärna en titt i <a target="_blank" href="https://kanslistod.svenskakyrkan.se">Kanslistöds serviceportal</a> om ditt ärende kan hanteras där.</p>
 
