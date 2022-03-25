@@ -3202,7 +3202,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://DIN URL/fv.php?metadata=true&amp;DEVICENAME=$DEVICENAME&amp;DEVICEOS=$DEVICEOS&amp;DEVICESERIAL=$DEVICESERIAL&amp;MACADDRESS=$MACADDRESS&amp;USERNAME=$OWNERUSERNAME</string>
+			<string>https://svk-support.pettersson-vik.se/index.php?metadata=true&amp;DEVICENAME=$DEVICENAME&amp;DEVICEOS=$DEVICEOS&amp;DEVICESERIAL=$DEVICESERIAL&amp;MACADDRESS=$MACADDRESS&amp;USERNAME=$OWNERUSERNAME</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
