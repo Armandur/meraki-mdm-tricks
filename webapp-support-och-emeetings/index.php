@@ -16,9 +16,8 @@
 
 <p>Skriv på Teams eller skicka ett mejl. Om det är akut går det bra att ringa. Ta gärna en titt i <a target="_blank" href="https://kanslistod.svenskakyrkan.se">Kanslistöds serviceportal</a> om ditt ärende kan hanteras där.</p>
 
-<br>
 <hr>
-<br>
+<img src="https://secure.gravatar.com/avatar/79b39f3a0efd1831d797c6bb571ac6ba?s=300"/>
 <h4>Rasmus Pettersson Vik</h4>
 <p>
 <ul style="list-style-type:square">
@@ -27,7 +26,6 @@
 	<li>📞 <a href="tel:+4661128854">Ring helst 0611-288 54</a>, jag nås också på <a href="tel:+46703647910">070-364 79 10</a></li>
 </ul>
 </p>
-<br>
 <hr>
 <br>
 <?php if (isset($_GET['metadata'])) { ?> 
