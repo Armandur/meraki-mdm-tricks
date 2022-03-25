@@ -19,7 +19,7 @@
 <br>
 <hr>
 <br>
-<h4>Namn Namn</h4>
+<h4>Rasmus Pettersson Vik</h4>
 <p>
 <ul style="list-style-type:square">
 	<li>📧 <a href="ms-outlook://compose?to=rasmus.pettersson-vik@svenskakyrkan.se">Skicka ett mail</a></li>
