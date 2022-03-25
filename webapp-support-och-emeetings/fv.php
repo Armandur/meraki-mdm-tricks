@@ -24,7 +24,7 @@
 <ul style="list-style-type:square">
 	<li>📧 <a href="ms-outlook://compose?to=rasmus.pettersson-vik@svenskakyrkan.se">Skicka ett mail</a></li>
 	<li>💬 <a href="https://teams.microsoft.com/l/chat/0/0?users=rasmus.pettersson-vik@svenskakyrkan.se">Chatta på Teams</a></li>
-	<li>📞 <a href="tel:+4661128854" Ring helst 0611-288 54</a>, jag nås också på <a href="tel:+46703647910">070-364 79 10</a></li>
+	<li>📞 <a href="tel:+4661128854">Ring helst 0611-288 54</a>, jag nås också på <a href="tel:+46703647910">070-364 79 10</a></li>
 </ul>
 </p>
 <br>
