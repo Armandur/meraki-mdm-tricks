@@ -12,7 +12,7 @@
 	<h1>IT-support</h1>
 </header>
  
-<p>Har du frågor om din platta? Kontakta Namn Namn.</p>
+<p>Har du frågor om din platta? Kontakta Rasmus Pettersson Vik.</p>
 
 <p>Skriv på Teams eller skicka ett mejl. Om det är akut går det bra att ringa. Ta gärna en titt i <a target="_blank" href="https://kanslistod.svenskakyrkan.se">Kanslistöds serviceportal</a> om ditt ärende kan hanteras där.</p>
 
@@ -22,9 +22,9 @@
 <h4>Namn Namn</h4>
 <p>
 <ul style="list-style-type:square">
-	<li>📧 <a href="ms-outlook://compose?to=namn.namn@svenskakyrkan.se">Skicka ett mail</a></li>
-	<li>💬 <a href="https://teams.microsoft.com/l/chat/0/0?users=namn.namn@svenskakyrkan.se">Skriv på Teams</a></li>
-	<li>📞 Ring 071-234 56 78</li>
+	<li>📧 <a href="ms-outlook://compose?to=rasmus.pettersson-vik@svenskakyrkan.se">Skicka ett mail</a></li>
+	<li>💬 <a href="https://teams.microsoft.com/l/chat/0/0?users=rasmus.pettersson-vik@svenskakyrkan.se">Chatta på Teams</a></li>
+	<li>📞 <a href="tel:+4661128854" Ring helst 0611-288 54</a>, jag nås också på <a href="tel:+46703647910">070-364 79 10</a></li>
 </ul>
 </p>
 <br>
